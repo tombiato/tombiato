@@ -1,3 +1,5 @@
+![npm install](/assets/hero.png "npm install")
+
 ### Hi there 👋
 
 [![Tom's github stats](https://github-readme-stats.vercel.app/api?username=tombiato)](https://github.com/tombiato/github-readme-stats)
