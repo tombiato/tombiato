@@ -1,4 +1,4 @@
-![npm install](/assets/hero.png "npm install")
+![npm install](/assets/images/hero.png "npm install")
 
 ### Hi there 👋
 
